@@ -10,4 +10,5 @@
 
 ## Pré-requisitos e como rodar a aplicação/testes:
 * Clone o projeto em sua máquina.
-* Em um terminal de preferência use o comando: npm run dev.
+* Abrir o terminal na pasta do projeto, ou no terminal do VsCode, instalar as dependências usando o comando: npm install.
+* Usar o npm run dev para rodar o projeto.
